@@ -40,7 +40,7 @@ My research interest includes neural machine translation and computer vision. I 
   <a href="https://doi.org/10.1016/j.tust.2025.106670"><b>Signal processing techniques for detecting leakage in urban water supply pipelines: Denoising and feature enhancement</b></a>
   <br><br>
   <b>Liang Ma</b>, Tengfei An, Runhan Zhao, Tianxiang Liu, Wenli Liu*<br>
-  <i>Tunnel Underground Space Technology<i>, 2025<br>
+  <i>Tunnel Underground Space Technology</i>, 2025<br>
   &#42; Corresponding author
   <br><br>
   <a href="https://doi.org/10.1016/j.tust.2025.106670">[DOI]</a>
