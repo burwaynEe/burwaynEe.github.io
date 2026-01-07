@@ -9,6 +9,11 @@
  *  - https://twitter.com/mmistakes
  *
 */
+/* ===== Font override (must be BEFORE @import "variables") ===== */
+$serif: "Times New Roman", Times, serif;
+$sans-serif: "Times New Roman", Times, serif;
+$global-font-family: $serif;
+$header-font-family: $serif;
 
 @import "vendor/breakpoint/breakpoint"; // media query mixins
 @import "variables";
