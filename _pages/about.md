@@ -39,9 +39,9 @@ My research interest includes neural machine translation and computer vision. I 
 <div class="paper-box-text">
   <a href="https://doi.org/10.1016/j.tust.2025.106670"><b>Signal processing techniques for detecting leakage in urban water supply pipelines: Denoising and feature enhancement</b></a>
   <br><br>
-  <b>Liang Ma</b>, Tengfei An, Runhan Zhao, Tianxiang Liu, Wenli Liu\*
-  *Tunnel Underground Space Technology*, 2025
-  \* Corresponding author
+  <b>Liang Ma</b>, Tengfei An, Runhan Zhao, Tianxiang Liu, Wenli Liu*<br>
+  <i>Tunnel Underground Space Technology<i>, 2025<br>
+  &#42; Corresponding author
   <br><br>
   <a href="https://doi.org/10.1016/j.tust.2025.106670">[DOI]</a>
   <a href="https://www.sciencedirect.com/science/article/pii/S0886779825003086">[ScienceDirect]</a>
@@ -61,9 +61,9 @@ My research interest includes neural machine translation and computer vision. I 
 <div class="paper-box-text">
   <a href="https://doi.org/10.1016/j.ress.2025.111425"><b>AcciMap causal analysis of Chinese chemical industry accidents unraveled by graph neural networks</b></a>
   <br><br>
-  <b>Liang Ma</b>, Runhan Zhao\*
-  *Reliability Engineering & System Safety*, 2025
-  \* Corresponding author
+  <b>Liang Ma</b>, Runhan Zhao*<br>
+  <i>Reliability Engineering &amp; System Safety</i>, 2025<br>
+  &#42; Corresponding author
   <br><br>
   <a href="https://doi.org/10.1016/j.ress.2025.111425">[DOI]</a>
   <a href="https://www.sciencedirect.com/science/article/pii/S0951832025006258">[ScienceDirect]</a>
