@@ -38,7 +38,7 @@ My research interest includes neural machine translation and computer vision. I 
   <div class="paper-box-image">
     <div>
       <div class="badge">TUST 2025</div>
-      <img src="images/500x300.png" alt="teaser" width="100%">
+      <img src="images/paper1.jpg" alt="teaser" width="100%">
     </div>
   </div>
 
