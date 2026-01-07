@@ -102,7 +102,10 @@ My research interests include **signal processing**, **neural network**, and **c
   </div>
 </div>
 
+# 💬 Patents
 
+-	Wenli Liu, <b>Liang Ma</b>, Hanbin Luo, Tengfei An. A leakage detection system and method based on an urban water supply pipeline inspection robot, CN202411834132.4, filed Dec 13, 2024.
+-	Wenli Liu, <b>Liang Ma</b>, Hanbin Luo, Tengfei An. A pipeline leakage detection device based on an intelligent acoustic sensing ball, filed May 5, 2024.
 
 # 🎖 Honors and Awards
 - *2025.10* National Scholarship, China.
