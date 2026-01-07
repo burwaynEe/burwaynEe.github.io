@@ -34,23 +34,27 @@ My research interest includes neural machine translation and computer vision. I 
 # 📝 Publications 
 
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
+<div class="paper-box">
+  <div class="paper-box-image">
     <div>
       <div class="badge">TUST 2025</div>
-      <img src='images/tust-2025.jpg' ima=es/tust- 025-1=6670.ti
+      <img src="images/500x300.png" alt="teaser" width="100%">
     </div>
   </div>
 
-  <div class='paper-box-text' markdown="1">
-    [**Signal processing techniques for detecting leakage in urban water supply pipelines: Denoising and feature enhancement**](https://doi.org/10.1016/j.tust.2025.106670)
-
-    Liang Ma, Tengfei An, Runhan Zhao, Tianxiang Liu, Wenli Liu
-
-    [[DOI]](https://doi.org/10.1016/j.tust.2025.106670) [[ScienceDirect]](https://www.sciencedirect.com/science/article/pii/S0886779825003086)
-    - Brief one-line highlight of your contribution / key finding.
-  </div>
+<div class="paper-box-text">
+  <a href="https://doi.org/10.1016/j.tust.2025.106670"><b>Signal processing techniques for detecting leakage in urban water supply pipelines: Denoising and feature enhancement</b></a>
+  <br><br>
+  <b>Liang Ma</b>, Tengfei An, Runhan Zhao, Tianxiang Liu, Wenli Liu
+  <br><br>
+  <a href="https://doi.org/10.1016/j.tust.2025.106670">[DOI]</a>
+  <a href="https://www.sciencedirect.com/science/article/pii/S0886779825003086">[ScienceDirect]</a>
+  <br><br>
+  - Proposes a signal-processing framework for leakage detection via denoising and feature enhancement.
 </div>
+
+</div>
+
 
 
 
