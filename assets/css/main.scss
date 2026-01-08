@@ -137,17 +137,13 @@ html {
 
 .paper-box-text {
   font-size: 17.5px;
-  line-height: 1.6;
+  line-height: 1.0;
 }
 
-h1 { font-size: 2.2rem; }
+h1 { font-size: 1.7rem; }
 h2 { font-size: 1.7rem; }
 h3 { font-size: 1.3rem; }
 .greedy-nav a {
   font-size: 1.25rem;
-}
-/* Reduce Publications section title size */
-.page__content h2 {
-  font-size: 1.6rem;   /* 默认大约 2rem+ */
 }
 
