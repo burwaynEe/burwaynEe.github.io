@@ -41,9 +41,7 @@ My research interests include **signal processing**, **neural network**, and **c
 
     <b>Liang Ma</b>, Tengfei An, Runhan Zhao, Tianxiang Liu, Wenli Liu&#42;<br>
     <i>Tunnel Underground Space Technology</i>, 2025<br>
-    &#42; Corresponding author
-    <br><br>
-
+    &#42; Corresponding author<br>
     <a href="https://doi.org/10.1016/j.tust.2025.106670">[DOI]</a>
     <a href="https://www.sciencedirect.com/science/article/pii/S0886779825003086">[ScienceDirect]</a>
     <br><br>
@@ -66,9 +64,7 @@ My research interests include **signal processing**, **neural network**, and **c
 
     <b>Liang Ma</b>, Runhan Zhao&#42;<br>
     <i>Reliability Engineering &amp; System Safety</i>, 2025<br>
-    &#42; Corresponding author
-    <br><br>
-
+    &#42; Corresponding author<br>
     <a href="https://doi.org/10.1016/j.ress.2025.111425">[DOI]</a>
     <a href="https://www.sciencedirect.com/science/article/pii/S0951832025006258">[ScienceDirect]</a>
     <br><br>
@@ -91,9 +87,7 @@ My research interests include **signal processing**, **neural network**, and **c
 
     Zhaosheng Feng, Jun Chen, Wen Liu, Yang Chen, <b>Liang Ma&#42;</b><br>
     <i>Journal of Ocean Engineering and Marine Energy</i>, 2025<br>
-    &#42; Corresponding author
-    <br><br>
-
+    &#42; Corresponding author<br>
     <a href="https://doi.org/10.1007/s40722-025-00462-1">[DOI]</a>
     <a href="https://link.springer.com/article/10.1007/s40722-025-00462-1">[Springer]</a>
     <br><br>
