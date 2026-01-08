@@ -84,15 +84,37 @@ My research interests include **signal processing**, **neural network**, and **c
   <div class="paper-box-text">
     <a href="https://doi.org/10.1007/s40722-025-00462-1"><b>Safety analysis of quay wall structures based on explainable machine learning</b></a>
     <br><br>
-
     Zhaosheng Feng, Jun Chen, Wen Liu, Yang Chen, <b>Liang Ma&#42;</b><br>
     <i>Journal of Ocean Engineering and Marine Energy</i>, 2025<br>
     &#42; Corresponding author<br>
     <a href="https://doi.org/10.1007/s40722-025-00462-1">[DOI]</a>
     <a href="https://link.springer.com/article/10.1007/s40722-025-00462-1">[Springer]</a>
     <br><br>
-
     - Develops an interpretable ML framework for quay wall shear-force prediction and safety analysis.
+  </div>
+</div>
+
+
+<div class="paper-box">
+  <div class="paper-box-image">
+    <div>
+      <div class="badge">SCS 2026 · JCR Q1</div>
+      <img src="images/paper4.jpg" alt="teaser" width="100%">
+    </div>
+  </div>
+
+  <div class="paper-box-text">
+    <a href="https://doi.org/10.1016/j.ress.2025.111425"><b>Reconstruction of Pedestrian-Level Pollutant Distributions in Urban Street Canyon Using Physics-Informed Neural Network</b></a>
+    <br><br>
+
+    <b>Liang Ma</b>, Tengfei An, Runhan Zhao, Wenli Liu&#42;<br>
+    <i>Sustainable Cities and Society</i>, 2026<br>
+    &#42; Corresponding author<br>
+    <a href="https://doi.org/10.1016/j.ress.2025.111425">[DOI]</a>
+    <a href="https://www.sciencedirect.com/science/article/pii/S0951832025006258">[ScienceDirect]</a>
+    <br><br>
+
+    - Proposes a PINN-RAS framework to reconstruct fine-scale PM2.5 distributions in street canyons using sparse data robustly.
   </div>
 </div>
 
