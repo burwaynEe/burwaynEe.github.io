@@ -118,6 +118,28 @@ My research interests include **signal processing**, **neural network**, and **c
   </div>
 </div>
 
+<div class="paper-box">
+  <div class="paper-box-image">
+    <div>
+      <div class="badge">RESS 2026 · JCR Q1</div>
+      <img src="images/paper5.jpg" alt="teaser" width="100%">
+    </div>
+  </div>
+
+  <div class="paper-box-text">
+    <a href="https://doi.org/10.1016/j.ress.2026.112492"><b>An accident causation analysis framework by integrating graph attention networks with Decision-Making Trial and Evaluation Laboratory based on AcciMap: A case of chemical accidents in China</b></a>
+    <br><br>
+
+    Runhan Zhao, <b>Liang Ma&#42;</b><br>
+    <i>Reliability Engineering &amp; System Safety</i>, 2026<br>
+    &#42; Corresponding author<br>
+    <a href="https://doi.org/10.1016/j.ress.2026.112492">[DOI]</a>
+    <a href="https://www.sciencedirect.com/science/article/pii/S095183202600308X?via%3Dihub#fig0001">[ScienceDirect]</a>
+    <br><br>
+
+    - Proposes a quantitative AcciMap using GAT-weighted edges and DEMATEL on 138 chemical accidents to identify key causal factors.
+  </div>
+</div>
 # 💬 Patents
 
 -	Wenli Liu, <b>Liang Ma</b>, Hanbin Luo, Tengfei An. A leakage detection system and method based on an urban water supply pipeline inspection robot, CN202411834132.4, filed Dec 13, 2024.
