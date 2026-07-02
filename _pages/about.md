@@ -145,7 +145,7 @@ My research interests include **signal processing**, **neural network**, and **c
   <div class="paper-box-image">
     <div>
       <div class="badge">BS 2026 · JCR Q1</div>
-      <img src="images/paper5.jpg" alt="teaser" width="100%">
+      <img src="images/paper6.jpg" alt="teaser" width="100%">
     </div>
   </div>
 
