@@ -140,6 +140,29 @@ My research interests include **signal processing**, **neural network**, and **c
     - Proposes a quantitative AcciMap using GAT-weighted edges and DEMATEL on 138 chemical accidents to identify key causal factors.
   </div>
 </div>
+
+<div class="paper-box">
+  <div class="paper-box-image">
+    <div>
+      <div class="badge">BS 2026 · JCR Q1</div>
+      <img src="images/paper5.jpg" alt="teaser" width="100%">
+    </div>
+  </div>
+
+  <div class="paper-box-text">
+    <a href="https://doi.org/10.1007/s12273-026-1442-z"><b>Physics-informed diffusion models for 3D reconstruction of indoor gaseous pollutant fields from sparse measurements</b></a>
+    <br><br>
+
+    <b>Liang Ma</b>, Tengfei An, Runhan Zhao, Wenli Liu&#42;<br>
+    <i>Building Simulation</i>, 2026<br>
+    &#42; Corresponding author<br>
+    <a href="https://doi.org/10.1007/s12273-026-1442-z">[DOI]</a>
+    <a href="https://link.springer.com/article/10.1007/s12273-026-1442-z#article-info">[Springer]</a>
+    <br><br>
+
+    - Proposes IRIME-PIDM to reconstruct physically consistent 3D indoor gaseous pollutant fields from sparse sensor data.
+  </div>
+</div>
 # 💬 Patents
 
 -	Wenli Liu, <b>Liang Ma</b>, Hanbin Luo, Tengfei An. A leakage detection system and method based on an urban water supply pipeline inspection robot, CN202411834132.4, filed Dec 13, 2024.
