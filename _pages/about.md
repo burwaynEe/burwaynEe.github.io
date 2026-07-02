@@ -157,7 +157,7 @@ My research interests include **signal processing**, **neural network**, and **c
     <i>Building Simulation</i>, 2026<br>
     &#42; Corresponding author<br>
     <a href="https://doi.org/10.1007/s12273-026-1442-z">[DOI]</a>
-    <a href="https://link.springer.com/article/10.1007/s12273-026-1442-z#article-info">[Springer]</a>
+    <a href="https://link.springer.com/article/10.1007/s12273-026-1442-z#Abs1">[Springer]</a>
     <br><br>
 
     - Proposes IRIME-PIDM to reconstruct physically consistent 3D indoor gaseous pollutant fields from sparse sensor data.
