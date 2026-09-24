@@ -169,10 +169,14 @@ My research interests include **signal processing**, **neural network**, and **c
 -	Wenli Liu, <b>Liang Ma</b>, Hanbin Luo, Tengfei An. A pipeline leakage detection device based on an intelligent acoustic sensing ball, filed May 5, 2024.
 
 # 🎖 Honors and Awards
-- *2025.10* National Scholarship, China.
+- *2024.10* Second-class Scholarship for Postgraduates, Huazhong University of Science and Technology.
 - *2025.10* Scholarship of Merit Student, Huazhong University of Science and Technology.
 - *2025.10* Second-class Scholarship for Postgraduates, Huazhong University of Science and Technology.
-- *2024.10* Second-class Scholarship for Postgraduates, Huazhong University of Science and Technology.
+- *2025.10* National Scholarship, China.
+- *2026.10* Scholarship of Merit Student, Huazhong University of Science and Technology.
+- *2026.10* Second-class Scholarship for Postgraduates, Huazhong University of Science and Technology.
+- *2026.10* Scholarship of Outstanding Postgraduates, Huazhong University of Science and Technology.
+- *2026.10* National Scholarship, China.
 
 # 📖 Educations
 - *2024.09 - 2027.06*, Huazhong University of Science and Technology, Master in Smart Construction. 
