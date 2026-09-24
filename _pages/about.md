@@ -40,7 +40,7 @@ My research interests include **signal processing**, **neural network**, and **c
     <br><br>
 
     <b>Liang Ma</b>, Tengfei An, Runhan Zhao, Tianxiang Liu, Wenli Liu&#42;<br>
-    <i>Tunnel Underground Space Technology</i>, 2025<br>
+    <i>Tunnelling Underground Space Technology</i>, 2025<br>
     &#42; Corresponding author<br>
     <a href="https://doi.org/10.1016/j.tust.2025.106670">[DOI]</a>
     <a href="https://www.sciencedirect.com/science/article/pii/S0886779825003086">[ScienceDirect]</a>
